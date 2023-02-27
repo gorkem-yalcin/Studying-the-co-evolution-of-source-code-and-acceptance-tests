@@ -1,0 +1,34 @@
+NAME: Name
+VC: Version count
+AVTOA: All Version Types, Test/All
+AVOTOA: All Version Types, Only Test/All
+AVOPOA: All Version Types, Only Production/All
+AVPATOA: All Version Types, Production and Test/All
+MMVC: Major Minor Version Count
+FCC: File Change Count
+ELOC: Executable Line of Code Count
+TLOC: Test Line of Code Count
+MMTOA: Major Minor Version Types, Test/All
+MMPOA: Major Minor Version Types Production/All
+
+APPFP: A PHPUnit plugin for Psalm
+AOVICP: An OpenVPN iOS Configuration Profile
+ABFM: Around block for minites
+BAGC: BBC Accessibility Guidelines Checke
+BEWMCHS: Behat extension with most custom helper steps
+BPFC: Best practice for Cucumber
+FBR: Factory Bot Rails
+HTTYPI: Helps to test your proxy infrastructure
+JEFTBS: jekyll extensions for the blogging scholar
+LYSYSSISF: Lets you split your ssh_config into separate files
+MACFGIW: Manage Advanced Custom Fields groups in WP-CLI
+MMPITALS: Moodle Mobile plugin including the app language strings
+PSTCTCA: PHP SDK to consume the continuousphp API
+SWCWFT: Scaffolds WP-CLI commands with functional tests
+STFG: Smoke tests for GOVUK
+SSFM: Sprockets support for Middleman
+STLPUDB: Stubs to let Psalm understand Doctrine better
+TDSFM: The DigitalState Forms Microservice
+TSCLI: The SDKMAN! Command Line Interface
+UAITFCAA: UI and integration tests for CommCare Android app
+WPPFC: Wire protocol plugin for Cucumber
